@@ -1,4 +1,4 @@
-# Student-Management-System-in-C-
+# Student-Management-System-in-C++-
 
 A simple management system for student information, using file handling.
 Gives your three functionalities;
