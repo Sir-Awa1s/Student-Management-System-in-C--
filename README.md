@@ -7,7 +7,7 @@ MAIN:
 
 DESCRIPTION:
 This program is a management system meant for schools and universities, using files as storage, and OOP implementation for whatever it is i forgot what to type here.
-Program is subject to change (enhancments).
+Program is subject to change (enhancements).
 
 Future progress:
 --Implementation of STL's for optimization.
